@@ -1,0 +1,20 @@
+// スペシャル参考: https://qiita.com/NozomuTsuruta/items/30b3a4e35c6834e614f8
+
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "baseUrl": "./",
+    "target": "es5",
+    "strict": true,
+    "module": "commonJS",
+    "jsx": "react",
+    "lib": [
+      "ES5",
+      "ES6",
+      "DOM"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true
+  }
+}
